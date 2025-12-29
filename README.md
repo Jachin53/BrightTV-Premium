@@ -66,7 +66,7 @@ This repository includes:
 - Miro Data flow Diagram.pdf 
 - Project Gantt Chart.pdf
 - Presentation BrightTV_Premium.pdf(Full Visual report)
-- BrightTV Premium (Dashboard)
+- BrightTV Premium.pbix (Dashboard)
 - Script.sql
 - README.md
 ---
